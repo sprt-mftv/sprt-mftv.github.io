@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=2883584
-#EXTINF:-1,Новое Радио
+#EXTINF:-1,РќРѕРІРѕРµ СЂР°РґРёРѕ
 http://live.novoeradio.by:8000/novoeradio-128k
