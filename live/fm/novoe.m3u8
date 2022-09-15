@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=2883584
+#EXTINF:-1,ÍÎÂÎÅ Ðאהטמ
+https://hls-video01.cdnvideo.ru/video01/hDvideo01-0O.sdp/playlist.m3u8
+
