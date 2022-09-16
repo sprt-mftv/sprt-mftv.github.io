@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=2883584
-#EXTINF:-1,Радио Шансон
+#EXTINF:-1 tvg-logo="https://mickey7779.github.io/live/fm/1/shanson.png",Радио Шансон
 http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
