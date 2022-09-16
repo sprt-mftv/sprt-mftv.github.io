@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=2883584
-#EXTINF:-1,РетроFM 90е
+#EXTINF:-1 tvg-logo="https://mickey7779.github.io/live/fm/1/retro90.png",РетроFM 90е
 https://hls-01-retro90.emgsound.ru/3/96/playlist.m3u8
