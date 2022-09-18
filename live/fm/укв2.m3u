@@ -1,28 +1,28 @@
 #EXTM3U
 
-#EXTINF:-1,4
+#EXTINF:-1,Ельдорадио
 http://hls-01-retro.emgsound.ru/4/128/playlist.m3u8
-#EXTINF:-1,5
+#EXTINF:-1,retro
 http://hls-01-retro.emgsound.ru/5/128/playlist.m3u8
-#EXTINF:-1,7
+#EXTINF:-1,keks fm
 http://hls-01-retro.emgsound.ru/7/128/playlist.m3u8
-#EXTINF:-1,8
+#EXTINF:-1,Радио 7 на семи холмах 
 http://hls-01-retro.emgsound.ru/8/128/playlist.m3u8
 #EXTINF:-1,9
 http://hls-01-retro.emgsound.ru/9/128/playlist.m3u8
 #EXTINF:-1,10
 http://hls-01-retro.emgsound.ru/10/128/playlist.m3u8
-#EXTINF:-1,11
+#EXTINF:-1,Европа плюс
 http://hls-01-retro.emgsound.ru/11/128/playlist.m3u8
 #EXTINF:-1,РЕТРО FM 
 http://hls-01-retro.emgsound.ru/12/128/playlist.m3u8
 #EXTINF:-1,13
 http://hls-01-retro.emgsound.ru/13/128/playlist.m3u8
-#EXTINF:-1,15
+#EXTINF:-1,Дорожное радио 
 http://hls-01-retro.emgsound.ru/15/128/playlist.m3u8
 #EXTINF:-1,16
 http://hls-01-retro.emgsound.ru/16/128/playlist.m3u8
-#EXTINF:-1,18
+#EXTINF:-1,Дорожное радио
 http://hls-01-retro.emgsound.ru/18/128/playlist.m3u8
 #EXTINF:-1,19
 http://hls-01-retro.emgsound.ru/19/128/playlist.m3u8
