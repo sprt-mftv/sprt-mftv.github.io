@@ -2,7 +2,6 @@
 #EXT-X-VERSION:3
 ## Builded with https://drmnow.pro/packager/ version 0.10.2
 #EXT-X-STREAM-INF:BANDWIDTH=2530000,AVERAGE-BANDWIDTH=2300000,RESOLUTION=854x480,FRAME-RATE=25.000,CODECS="avc1.4d401f,mp4a.40.2"
-#EXTINF:-1,Disney 
 https://mobdrm.mediavitrina.ru/hls-livecn2/streams/hls/Disney_OTT/index_0.m3u8?cdn=https%3A%2F%2Fuser73804.clients-cdnnow.ru&token=v2.pSEeKqWKoVwK7h-4rWnj8927E0TfaxYpLDwIiO0WdUY._n_FIt0kNB9y9nGaZR-wamXCrHKPF0aQWZVqOxm9NYc.1663490407.c49a5de95efe074b267ef2f971cededb
 
 
