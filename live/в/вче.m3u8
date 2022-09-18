@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:BANDWIDTH=528000,AVERAGE-BANDWIDTH=435600,CODECS="avc1.4d4020,mp4a.40.2",RESOLUTION=426x240,FRAME-RATE=25.000,SUBTITLES="subs"
+https://mobdrm.mediavitrina.ru/hls-live2/streams/ctc-che/3s/ctc-che-chunks-1.m3u8?cdn=https%3A%2F%2Fchelive-vitrina.cdnvideo.ru&token=v2.CYSCXhPztHPRD36q7L7JvAAMFqgBITl6ofZomi-6T7U.zC8yj4vCu29Vzr7ENmHC_6E1yTKc6h3iYQbjd2XPGws.1663489805.ad527be0d526e75aefe97b743d1739d2
+#EXT-X-STREAM-INF:BANDWIDTH=1091200,AVERAGE-BANDWIDTH=875600,CODECS="avc1.4d4020,mp4a.40.2",RESOLUTION=640x360,FRAME-RATE=25.000,SUBTITLES="subs"
+https://mobdrm.mediavitrina.ru/hls-live2/streams/ctc-che/3s/ctc-che-chunks-2.m3u8?cdn=https%3A%2F%2Fchelive-vitrina.cdnvideo.ru&token=v2.CYSCXhPztHPRD36q7L7JvAAMFqgBITl6ofZomi-6T7U.zC8yj4vCu29Vzr7ENmHC_6E1yTKc6h3iYQbjd2XPGws.1663489805.ad527be0d526e75aefe97b743d1739d2
+#EXT-X-STREAM-INF:BANDWIDTH=4329600,AVERAGE-BANDWIDTH=3405600,CODECS="avc1.4d4020,mp4a.40.2",RESOLUTION=854x480,FRAME-RATE=25.000,SUBTITLES="subs"
+https://mobdrm.mediavitrina.ru/hls-live2/streams/ctc-che/3s/ctc-che-chunks-3.m3u8?cdn=https%3A%2F%2Fchelive-vitrina.cdnvideo.ru&token=v2.CYSCXhPztHPRD36q7L7JvAAMFqgBITl6ofZomi-6T7U.zC8yj4vCu29Vzr7ENmHC_6E1yTKc6h3iYQbjd2XPGws.1663489805.ad527be0d526e75aefe97b743d1739d2
+#EXT-X-MEDIA:TYPE=SUBTITLES,NAME="Русский",DEFAULT=YES,AUTOSELECT=YES,FORCED=NO,LANGUAGE="rus",GROUP-ID="subs",URI="https://chelive-vitrina.cdnvideo.ru/hls-live2/streams/ctc-che/3s/ctc-che-chunks-subs-1.m3u8"

@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Русский",AUTOSELECT=YES,LANGUAGE="rus",URI="https://6h146ol924.a.trbcdn.net/hls-livec2/streams/vitrina-hls/friday/tracks-t1/mono.m3u8"
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=530000,BANDWIDTH=670000,SUBTITLES="subs",RESOLUTION=426x240,FRAME-RATE=25.000,CODECS="avc1.4d0020,mp4a.40.2"
+https://mobdrm.mediavitrina.ru/hls-livec2/streams/vitrina-hls/friday/tracks-v1a1/mono.m3u8?cdn=https%3A%2F%2F6h146ol924.a.trbcdn.net&token=v2.KHLtjr46TY2RuSw_tqRtiQNeZIwVboCuG2LCe4w_vbg.fRHV-6XkrxzCu5wwsrpFrhhH4C5aSmUvD9gPJSvqJB0.1663489872.152ef78f6323046e6c062eb4f8698a18
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=920000,BANDWIDTH=1150000,SUBTITLES="subs",RESOLUTION=640x360,FRAME-RATE=25.000,CODECS="avc1.4d0020,mp4a.40.2"
+https://mobdrm.mediavitrina.ru/hls-livec2/streams/vitrina-hls/friday/tracks-v2a1/mono.m3u8?cdn=https%3A%2F%2F6h146ol924.a.trbcdn.net&token=v2.KHLtjr46TY2RuSw_tqRtiQNeZIwVboCuG2LCe4w_vbg.fRHV-6XkrxzCu5wwsrpFrhhH4C5aSmUvD9gPJSvqJB0.1663489872.152ef78f6323046e6c062eb4f8698a18
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=2450000,BANDWIDTH=3070000,SUBTITLES="subs",RESOLUTION=854x480,FRAME-RATE=25.000,CODECS="avc1.4d0020,mp4a.40.2"
+https://mobdrm.mediavitrina.ru/hls-livec2/streams/vitrina-hls/friday/tracks-v3a1/mono.m3u8?cdn=https%3A%2F%2F6h146ol924.a.trbcdn.net&token=v2.KHLtjr46TY2RuSw_tqRtiQNeZIwVboCuG2LCe4w_vbg.fRHV-6XkrxzCu5wwsrpFrhhH4C5aSmUvD9gPJSvqJB0.1663489872.152ef78f6323046e6c062eb4f8698a18
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=4010000,BANDWIDTH=5010000,SUBTITLES="subs",RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.640020,mp4a.40.2"
+https://mobdrm.mediavitrina.ru/hls-livec2/streams/vitrina-hls/friday/tracks-v4a1/mono.m3u8?cdn=https%3A%2F%2F6h146ol924.a.trbcdn.net&token=v2.KHLtjr46TY2RuSw_tqRtiQNeZIwVboCuG2LCe4w_vbg.fRHV-6XkrxzCu5wwsrpFrhhH4C5aSmUvD9gPJSvqJB0.1663489872.152ef78f6323046e6c062eb4f8698a18
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=6860000,BANDWIDTH=8570000,SUBTITLES="subs",RESOLUTION=1920x1080,FRAME-RATE=25.000,CODECS="avc1.640028,mp4a.40.2"
+https://mobdrm.mediavitrina.ru/hls-livec2/streams/vitrina-hls/friday/tracks-v5a1/mono.m3u8?cdn=https%3A%2F%2F6h146ol924.a.trbcdn.net&token=v2.KHLtjr46TY2RuSw_tqRtiQNeZIwVboCuG2LCe4w_vbg.fRHV-6XkrxzCu5wwsrpFrhhH4C5aSmUvD9gPJSvqJB0.1663489872.152ef78f6323046e6c062eb4f8698a18
