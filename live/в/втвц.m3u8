@@ -1,5 +1,4 @@
 #EXTM3U
 #EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Русский",AUTOSELECT=YES,LANGUAGE="rus",URI="https://9lvmiyh0hi.a.trbcdn.net/hls-livec2/streams/vitrina-hls/tvc/tracks-t1/mono.m3u8"
 #EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=2710000,BANDWIDTH=3390000,SUBTITLES="subs",RESOLUTION=854x480,FRAME-RATE=25.000,CODECS="avc1.4d0020,mp4a.40.2"
-#EXTINF:-1,ТВЦ
 https://mobdrm.mediavitrina.ru/hls-livec1/streams/vitrina-hls/tvc/tracks-v3a1/mono.m3u8?cdn=https%3A%2F%2F9lvmiyh0hi.a.trbcdn.net&token=v2.NhT4DZLiRMxxC-Ua401v3A1Dhk1mTNJMfH0wIxKeujc.cMSXU_7c_lzZI14fg6uXbJM5vbteVTvBMlcGrlutNwY.1663489908.b05c3f9c52121578199a9dd4beb2e76f
