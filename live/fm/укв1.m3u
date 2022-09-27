@@ -1,1 +1,23 @@
-
+#EXTM3U
+#EXTINF:-1,НОВОЕ Радио 
+http://mickey7779.github.io/live/fm/novoe.m3u8
+#EXTINF:-1,Новое Радио
+http://mickey7779.github.io/live/fm/newradio.m3u8
+#EXTINF:-1,АВТОРАДИО
+http://mickey7779.github.io/live/fm/avto.m3u
+#EXTINF:-1,Радио Максимум
+http://mickey7779.github.io/live/fm/maximum.m3u8
+#EXTINF:-1,Радио Хит FM
+http://mickey7779.github.io/live/fm/hitfm.m3u8
+#EXTINF:-1,Радио Шансон
+http://mickey7779.github.io/live/fm/shanson.m3u8
+#EXTINF:-1,Дорожное Радио
+http://mickey7779.github.io/live/fm/dorozhnoe.m3u8
+#EXTINF:-1,РЕТРО FM 
+http://mickey7779.github.io/live/fm/retro⁹⁰.m3u8
+#EXTINF:-1,РЕТРО FM 
+http://mickey7779.github.io/live/fm/retro.m3u8
+#EXTINF:-1 ,Радио Дача
+http://mickey7779.github.io/live/fm/dacha.m3u8
+#EXTINF:-1 ,Русское Радио 
+http://mickey7779.github.io/live/fm/russkoe.m3u8
