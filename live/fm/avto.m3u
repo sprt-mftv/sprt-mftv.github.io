@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=2883584
-#EXTINF:-1 tvg-logo="https://mickey7779.github.io/live/fm/1/авторадио.png",Авторадио 
+#EXTINF:-1,Авторадио 
 https://strm.yandex.ru/kal/fm_testv2_avtoradio/fm_testv2_avtoradio0.m3u8
