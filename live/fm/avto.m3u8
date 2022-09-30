@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=2883584
+#EXT-X-STREAM-INF:BANDWIDTH=125000,CODECS="mp4a.40.2"
 https://strm.yandex.ru/kal/fm_testv2_avtoradio/fm_testv2_avtoradio0.m3u8
