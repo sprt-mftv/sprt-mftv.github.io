@@ -1,9 +1,9 @@
 #EXTM3U
 #EXT-X-TARGETDURATION:5220
 
-#EXT-X-KEY:METHOD=AES-128,URI="https://mickey7779.github.io/live/в/визвестия.m3u8/key.bin", IV=0X10ef8f758ca555115584bb5b3c687f52
+#EXT-X-KEY:METHOD=AES-128,URI="http://news.cgtn.com/resource/live/russian/cgtn-r.m3u8/key.bin", IV=0X10ef8f758ca555115584bb5b3c687f52
 
-#EXT-X-SESSION-KEY:METHOD=AES-128,URI="https://mickey7779.github.io/live/в/визвестия.m3u8/key.bin", IV=0X10ef8f758ca555115584bb5b3c687f52
+#EXT-X-SESSION-KEY:METHOD=AES-128,URI="http://news.cgtn.com/resource/live/russian/cgtn-r.m3u8/key.bin", IV=0X10ef8f758ca555115584bb5b3c687f52
 
 
 #EXTINF:5220,
