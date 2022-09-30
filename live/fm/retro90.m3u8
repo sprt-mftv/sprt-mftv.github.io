@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=117000,CODECS="mp4a.40.2"
-https://hls-01-retro90.emgsound.ru/3/112/playlist.m3u8
+https://hls-01-retro90.emgsound.ru/3/112/playlist.m3u8?hlssid=zfo0exmj6g8rcwyhybkvbxo6vdlgyw51
