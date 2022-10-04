@@ -1,0 +1,67 @@
+#EXTM3U url-tvg="http://iptvx.one/epg/epg_lite.xml.gz,http://iptvx.one/EPG"
+
+#EXTINF:-1,Первый канал HD +4
+https://mickey7779.github.io/live/в/впк4.m3u8
+#EXTINF:-1,Первый канал HD
+https://mickey7779.github.io/live/в/впк.m3u8
+#EXTINF:-1,Россия 1 HD
+https://mickey7779.github.io/live/в/вроссия1.m3u8
+#EXTINF:-1,Россия 1 +4
+https://mickey7779.github.io/live/в/вроссия1 4.m3u8
+#EXTINF:-1,Россия 24
+https://mickey7779.github.io/live/в/вроссия24.m3u8
+#EXTINF:-1,Россия Культура
+
+
+#EXTINF:-1,Матч HD
+https://mickey7779.github.io/live/в/вматч.m3u8
+#EXTINF:-1,Рен ТВ HD
+https://mickey7779.github.io/live/в/врентв.m3u8
+#EXTINF:-1,ТВ3
+https://mickey7779.github.io/live/в/втв3.m3u8
+#EXTINF:-1,Че
+https://mickey7779.github.io/live/в/вче.m3u8
+#EXTINF:-1,СТС 
+https://mickey7779.github.io/live/в/встс.m3u8
+#EXTINF:-1,СТС +4
+https://mickey7779.github.io/live/в/встс4.m3u8
+#EXTINF:-1,СТС +7
+https://mickey7779.github.io/live/в/встс7.m3u8
+#EXTINF:-1,СТС Love
+https://mickey7779.github.io/live/в/встсlove.m3u8
+#EXTINF:-1,Домашний 
+https://mickey7779.github.io/live/в/вдом.m3u8
+#EXTINF:-1,Домашний +4
+https://mickey7779.github.io/live/в/вдом4.m3u8
+#EXTINF:-1,Домашний +7
+https://mickey7779.github.io/live/в/вдом7.m3u8
+#EXTINF:-1,Ю
+https://mickey7779.github.io/live/в/вю.m3u8
+#EXTINF:-1,Пятница 
+https://mickey7779.github.io/live/в/впятница.m3u8
+#EXTINF:-1,НТВ
+https://mickey7779.github.io/live/в/внтв.m3u8
+#EXTINF:-1,НТВ +2
+https://mickey7779.github.io/live/в/внтв2.m3u8
+#EXTINF:-1,НТВ +4
+https://mickey7779.github.io/live/в/внтв4.m3u8
+#EXTINF:-1,НТВ +7
+https://mickey7779.github.io/live/в/внтв7.m3u8
+#EXTINF:-1,ТНТ
+https://mickey7779.github.io/live/в/втнт.m3u8
+#EXTINF:-1,Звезда
+https://mickey7779.github.io/live/в/взвезда.m3u8
+#EXTINF:-1,ТВЦ
+https://mickey7779.github.io/live/в/втвц.m3u8
+#EXTINF:-1,Мир
+https://mickey7779.github.io/live/в/вмир.m3u8
+#EXTINF:-1,5 канал
+https://mickey7779.github.io/live/в/в5канал.m3u8
+#EXTINF:-1,МузТВ
+https://mickey7779.github.io/live/в/вмузтв.m3u8
+#EXTINF:-1,Известия
+https://mickey7779.github.io/live/в/визвестия.m3u8
+#EXTINF:-1,Disney
+https://mickey7779.github.io/live/в/вдисней.m3u8
+#EXTINF:-1 ,Карусель 
+https://mickey7779.github.io/live/в/вкарусель.m3u8
