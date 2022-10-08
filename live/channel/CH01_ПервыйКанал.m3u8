@@ -1,5 +1,3 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=0,BANDWIDTH=2883584
-https://1tv-live-gcore.servicecdn.ru/dash-live12/streams/1tv/1tvdash.mpd
-
+#EXT-X-STREAM-INF:CLOSED-CAPTIONS=NONE,RESOLUTION=1024x576,FRAME-RATE=30.000,CODECS="avc1.4d001f,mp4a.40.2",AVERAGE-BANDWIDTH=1710000,BANDWIDTH=2140000
+https://mhd158.iptv2022.com/p/A9amtZ-dlVQxgvxKKidfpQ,1664969260/streaming/1kanal4ott/324/1/tracks-v4a1/mono.m3u8
