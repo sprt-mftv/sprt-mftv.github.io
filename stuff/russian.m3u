@@ -1,0 +1,34 @@
+#EXTM3U
+#PLAYLIST:Online radio: RUSSIAN Music (www.radio.pervii.com)
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/3/1537442683.jpg" group-title="RUSSIAN Radio - radio.pervii.com", Russkie Pesni - 128 kbit/s
+http://listen.rusongs.ru/ru-mp3-128
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1549717041.jpg" group-title="RUSSIAN Radio - radio.pervii.com", Russkoe Radio - Moskva 105.7 FM - 128 kbit/s
+http://rusradio.hostingradio.ru/rusradio96.aacp
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/0909171033.jpg" group-title="RUSSIAN Radio - radio.pervii.com", Radio Dacha - Volgodonsk - 96 kbit/s
+http://listen.vdfm.ru:8000/dacha
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/59339.jpg" group-title="RUSSIAN Radio - radio.pervii.com", Monte-Karlo - Orel - 192 kbit/s
+https://icecast227.ptspb.ru:8443/monte
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/59339.jpg" group-title="RUSSIAN Radio - radio.pervii.com", Monte-Karlo Sankt-Peterburg 105,9 FM - 192 kbit/s
+http://icecast227.ptspb.ru:8104/monte
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1380753029.jpg" group-title="RUSSIAN Radio - radio.pervii.com", Hity Rossii - Riga 96.2 FM - 192 kbit/s
+http://stream.superfm.lv:8000/khr.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/108291.jpg" group-title="RUSSIAN Radio - radio.pervii.com", Radio Fantastiki - 96 kbit/s
+http://fantasyradioru.no-ip.biz:8002/live
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403768728.png" group-title="RUSSIAN Radio - radio.pervii.com", Radio 99.1 FM, Krasnoyarsk - 96 kbit/s
+http://online.volgogradfm.ru:8000/99i1
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403667572.png" group-title="RUSSIAN Radio - radio.pervii.com", Dorozhnoe radio - Moskva 96.0 FM - 64 kbit/s
+http://dor2server.streamr.ru:8000/dor_64_no
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1439098397.png" group-title="RUSSIAN Radio - radio.pervii.com", Evropa Plyus - Moskva 106.2 FM - 128 kbit/s
+http://europaplus.hostingradio.ru:8014/europaplus320.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1537439750.jpg" group-title="RUSSIAN Radio - radio.pervii.com", Nashe Radio - Sankt-Peterburg 104,0 FM - 128 kbit/s
+http://nashe1.hostingradio.ru/nashespb128.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/0/1550286730.jpg" group-title="RUSSIAN Radio - radio.pervii.com", Radio Sputnik - Ekaterinburg 107 FM - 128 kbit/s
+http://online.volgogradfm.ru:8000/sputnik107_aacplus
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1419724220.jpg" group-title="RUSSIAN Radio - radio.pervii.com", Zaycev FM - Raznoe - 128 kbit/s
+http://zaycevfm.cdnvideo.ru/ZaycevFM_pop_64.aac
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1554861291.jpg" group-title="RUSSIAN Radio - radio.pervii.com", Kunel radio - Naberezhnye Chelny - 128 kbit/s
+http://live.kunelradio.ru:8000/128.mp3
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403409742.png" group-title="RUSSIAN Radio - radio.pervii.com", Radio Yuniton - 128 kbit/s
+http://online.uniton.ru:8300/RadioUniton128?
+#EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/2/1578023322.jpg" group-title="RUSSIAN Radio - radio.pervii.com", Radio Romantika Moskva 98,8 FM  - 128 kbit/s
+https://pub0302.101.ru:8443/stream/air/aac
