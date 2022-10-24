@@ -1,8 +1,8 @@
 
 Sign up
-junguler
+Mickey7779
 /
-m3u-radio-music-playlists
+mickey7779.github.io
 Public
 Code
 Issues
@@ -11,9 +11,9 @@ Discussions
 Actions
 Security
 Insights
-m3u-radio-music-playlists/stuff/m3u-player.js
-@junguler
-junguler change the utf-8 icon for playlist buttons
+mickey7779.github.io/stuff/m3u-player.js
+@mickey7779
+mickey7779 change the utf-8 icon for playlist buttons
  1 contributor
 Executable File  315 lines (312 sloc)  10.9 KB
 // [[file:m3u-player.org::*The script][The script:1]]
