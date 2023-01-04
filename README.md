@@ -1,3 +1,3 @@
-sprt-mftv.github.io
+https://sprt-mftv.github.io
 
 Хранилище
