@@ -1,4 +1,4 @@
-$ time curl 'https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1672935232' 'https://cdn11.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd' -v
+$ time curl 'https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash1.mpd?e=1672935232' 'https://cdn11.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash1.mpd' -v
 * Connected to edge4.1internet.tv
 * found 149 certificates in /etc/ssl/certs/ca-certificates.crt
 * found 608 certificates in /etc/ssl/certs
