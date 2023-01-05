@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <MPD xmlns="urn:mpeg:dash:schema:mpd:2011" availabilityStartTime="1970-01-01T00:00:00Z" id="Config part of url maybe?" maxSegmentDuration="PT8S" minBufferTime="PT1S" minimumUpdatePeriod="P100Y" profiles="urn:mpeg:dash:profile:full:2011,http://www.dashif.org/guidelines/low-latency-live-v5" publishTime="2023-01-05T19:19:35Z" timeShiftBufferDepth="PT5M" type="dynamic">
- <BaseURL>https://cdn2.1internet.tv/dash-live12/streams/1tv/1tvdash1</BaseURL>
+ <BaseURL>https://cdn2.1internet.tv/dash-live2/streams/1tv/1tvdash1</BaseURL>
 <ServiceDescription id="0">
 <Latency max="6000" min="2000" referenceId="0" target="4000" />
 <PlaybackRate max="1.04" min="0.96" />
