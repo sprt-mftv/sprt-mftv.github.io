@@ -1,10 +1,46 @@
+$ time curl 'https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd?e=1672935232' 'https://cdn11.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd' -v
+* Connected to edge4.1internet.tv
+* found 149 certificates in /etc/ssl/certs/ca-certificates.crt
+* found 608 certificates in /etc/ssl/certs
+* ALPN, offering http/1.1
+* SSL connection using TLS1.2 / ECDHE_RSA_AES_128_GCM_SHA256
+* 	 server certificate verification OK
+* 	 server certificate status verification SKIPPED
+* 	 common name: *.1internet.tv (matched)
+* 	 server certificate expiration date OK
+* 	 server certificate activation date OK
+* 	 certificate public key: RSA
+* 	 certificate version: #3
+* 	 subject: CN=*.1internet.tv
+* 	 start date: Sun, 17 Mar 2019 00:00:00 GMT
+* 	 expire date: Fri, 15 May 2020 12:00:00 GMT
+* 	 issuer: C=US,O=DigiCert Inc,OU=www.digicert.com,CN=RapidSSL RSA CA 2018
+* 	 compression: NULL
+* ALPN, server accepted to use http/1.1
+> GET /dash-live2/streams/1tv-dvr/1tvdash.mpd HTTP/1.1
+> Host: edge4.1internet.tv
+> User-Agent: curl/7.47.0
+> Accept: */*
+> 
+< HTTP/1.1 200 OK
+< Server: nginx/1.14.0 (Ubuntu)
+< Date: Wed, 31 Jul 2019 23:13:49 GMT
+< Content-Type: application/dash+xml
+< Content-Length: 3509
+< Connection: keep-alive
+< Keep-Alive: timeout=60
+< Age: 199
+< Accept-Ranges: bytes
+< Expires: Thu, 01 Jan 1970 00:00:01 GMT
+< Cache-Control: no-cache
+< 
 <?xml version="1.0" encoding="UTF-8"?>
 <MPD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:mpeg:dash:schema:mpd:2011" xmlns:cenc="urn:mpeg:cenc:2013" xsi:schemaLocation="urn:mpeg:dash:schema:mpd:2011 http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-DASH_schema_files/DASH-MPD.xsd" type="dynamic" publishTime="2023-01-05T14:23:20.517Z" minimumUpdatePeriod="PT10S" availabilityStartTime="2022-12-15T11:49:55.509Z" minBufferTime="PT2S" suggestedPresentationDelay="PT40S" timeShiftBufferDepth="PT12H0M0S" profiles="urn:mpeg:dash:profile:isoff-live:2011">
   <Period start="PT0S" id="1">
     <AdaptationSet mimeType="video/mp4" frameRate="25/1" segmentAlignment="true" subsegmentAlignment="true" startWithSAP="1" subsegmentStartsWithSAP="1" bitstreamSwitching="false">
       <SegmentTemplate timescale="90000" duration="450000" startNumber="1"/>
       <Representation id="1" width="1280" height="720" bandwidth="3800000" codecs="avc1.64001f">
-        <SegmentTemplate duration="450000" startNumber="https://edge2.1internet.tv" media="../../../dash-live2/streams/1tv-dvr/1tvdash1-12hFrag-hd-5-20221215T114945_$Number%09d$.mp4" initialization="1tvdash1-12hFrag-hd-5-20221215T114945init.mp4"/>
+        <SegmentTemplate duration="450000" startNumber="1" media="../../../dash-live2/streams/1tv-dvr/1tvdash1-12hFrag-hd-5-20221215T114945_$Number%09d$.mp4" initialization="1tvdash1-12hFrag-hd-5-20221215T114945init.mp4"/>
       </Representation>
       <Representation id="2" width="1280" height="720" bandwidth="2400000" codecs="avc1.64001f">
         <SegmentTemplate duration="450000" startNumber="1" media="../../../dash-live2/streams/1tv-dvr/1tvdash1-12hFrag-hd-4-20221215T114945_$Number%09d$.mp4" initialization="1tvdash1-12hFrag-hd-4-20221215T114945init.mp4"/>
