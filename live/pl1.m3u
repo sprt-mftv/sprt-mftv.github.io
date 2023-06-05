@@ -894,276 +894,276 @@ http://hez1-flu.iptvstream.site/256/index.m3u8
 #EXTINF:-1 catchup="default" catchup-days="0" tvg-id="no_epg" stream-id="259" catchup-source="http://hez1-flu.iptvstream.site/259/index-${start}-${offset}.m3u8" group-title="Разные" tvg-logo="http://static.telestars.tv/logos/Uzbekistan.png",Uzbekistan 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/259/index.m3u8
+http://hez1-flu.iptvstream.site/259/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="14" tvg-id="555" stream-id="260" catchup-source="http://hez1-flu.iptvstream.site/260/index-${start}-${offset}.m3u8" group-title="Для взрослых (18+)" tvg-logo="http://static.telestars.tv/logos/RusskayaNoch.png",Русская ночь
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/260/index.m3u8
+http://hez1-flu.iptvstream.site/260/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="0" tvg-id="dorcel" stream-id="261" catchup-source="http://hez1-flu.iptvstream.site/261/index-${start}-${offset}.m3u8" group-title="Для взрослых (18+)" tvg-logo="http://static.telestars.tv/logos/DORCELTVHD.png",Dorcel TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/261/index.m3u8
+http://hez1-flu.iptvstream.site/261/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="0" tvg-id="100042" stream-id="263" catchup-source="http://hez1-flu.iptvstream.site/263/index-${start}-${offset}.m3u8" group-title="Для взрослых (18+)" tvg-logo="http://static.telestars.tv/logos/BlueHustler.png",Blue Hustler
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/263/index.m3u8
+http://hez1-flu.iptvstream.site/263/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="0" tvg-id="barely-legal" stream-id="265" catchup-source="http://hez1-flu.iptvstream.site/265/index-${start}-${offset}.m3u8" group-title="Для взрослых (18+)" tvg-logo="http://static.telestars.tv/logos/BarelyLegal.png",Barely Legal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/265/index.m3u8
+http://hez1-flu.iptvstream.site/265/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="0" tvg-id="o-la-la" stream-id="266" catchup-source="http://hez1-flu.iptvstream.site/266/index-${start}-${offset}.m3u8" group-title="Для взрослых (18+)" tvg-logo="http://static.telestars.tv/logos/Olala.png",O-la-la
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/266/index.m3u8
+http://hez1-flu.iptvstream.site/266/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="0" tvg-id="1511" stream-id="267" catchup-source="http://hez1-flu.iptvstream.site/267/index-${start}-${offset}.m3u8" group-title="Для взрослых (18+)" tvg-logo="http://static.telestars.tv/logos/HustlerHD.png",Hustler HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/267/index.m3u8
+http://hez1-flu.iptvstream.site/267/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="0" tvg-id="1378" stream-id="268" catchup-source="http://hez1-flu.iptvstream.site/268/index-${start}-${offset}.m3u8" group-title="Для взрослых (18+)" tvg-logo="http://static.telestars.tv/logos/PlayboyTV.png",Playboy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/268/index.m3u8
+http://hez1-flu.iptvstream.site/268/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="0" tvg-id="passionxxx" stream-id="269" catchup-source="http://hez1-flu.iptvstream.site/269/index-${start}-${offset}.m3u8" group-title="Для взрослых (18+)" tvg-logo="http://static.telestars.tv/logos/PassionXXX.png",Passion XXX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/269/index.m3u8
+http://hez1-flu.iptvstream.site/269/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="0" tvg-id="2755" stream-id="271" catchup-source="http://hez1-flu.iptvstream.site/271/index-${start}-${offset}.m3u8" group-title="Для взрослых (18+)" tvg-logo="http://static.telestars.tv/logos/RedlightHD.png",Redlight HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/271/index.m3u8
+http://hez1-flu.iptvstream.site/271/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="0" tvg-id="" stream-id="274" catchup-source="http://hez1-flu.iptvstream.site/274/index-${start}-${offset}.m3u8" group-title="Музыка" tvg-logo="http://static.telestars.tv/logos/deluxe_music.png",Deluxe Music
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/274/index.m3u8
+http://hez1-flu.iptvstream.site/274/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="7" tvg-id="300027" stream-id="275" catchup-source="http://hez1-flu.iptvstream.site/275/index-${start}-${offset}.m3u8" group-title="Детские" tvg-logo="http://static.telestars.tv/logos/baby-tv.png",Baby TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/275/index.m3u8
+http://hez1-flu.iptvstream.site/275/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="0" tvg-id="2424" stream-id="276" catchup-source="http://hez1-flu.iptvstream.site/276/index-${start}-${offset}.m3u8" group-title="Детские" tvg-logo="http://static.telestars.tv/logos/sovetskie_multfilmy.png",Советские мультфильмы
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/276/index.m3u8
+http://hez1-flu.iptvstream.site/276/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="7" tvg-id="mult" stream-id="283" catchup-source="http://hez1-flu.iptvstream.site/283/index-${start}-${offset}.m3u8" group-title="Детские" tvg-logo="http://static.telestars.tv/logos/mult.png",Мульт HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/283/index.m3u8
+http://hez1-flu.iptvstream.site/283/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="14" tvg-id="strashnoe-hd" stream-id="287" catchup-source="http://hez1-flu.iptvstream.site/287/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/strashnoe-hd.png",Страшное HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/287/index.m3u8
+http://hez1-flu.iptvstream.site/287/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="0" tvg-id="672" stream-id="290" catchup-source="http://hez1-flu.iptvstream.site/290/index-${start}-${offset}.m3u8" group-title="Развлекательные" tvg-logo="http://static.telestars.tv/logos/zhivi.png",Живи!
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/290/index.m3u8
+http://hez1-flu.iptvstream.site/290/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="0" tvg-id="315" stream-id="291" catchup-source="http://hez1-flu.iptvstream.site/291/index-${start}-${offset}.m3u8" group-title="Развлекательные" tvg-logo="http://static.telestars.tv/logos/novy.png",Новий канал
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/291/index.m3u8
+http://hez1-flu.iptvstream.site/291/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="14" tvg-id="ostrosiuzhetnoe-hd" stream-id="294" catchup-source="http://hez1-flu.iptvstream.site/294/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/ostrosiuzhetnoe-hd.png",Остросюжетное HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/294/index.m3u8
+http://hez1-flu.iptvstream.site/294/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="7" tvg-id="bcu-history" stream-id="295" catchup-source="http://hez1-flu.iptvstream.site/295/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/BCU/ch_13.png",BCU History HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/295/index.m3u8
+http://hez1-flu.iptvstream.site/295/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="14" tvg-id="bcu-russian" stream-id="296" catchup-source="http://hez1-flu.iptvstream.site/296/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/BCU/ch_12.png",BCU Russian HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/296/index.m3u8
+http://hez1-flu.iptvstream.site/296/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="14" tvg-id="bcu-ruserial" stream-id="297" catchup-source="http://hez1-flu.iptvstream.site/297/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/BCU/1413.png",BCU Ruserial HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/297/index.m3u8
+http://hez1-flu.iptvstream.site/297/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="7" tvg-id="bcu-sssr" stream-id="298" catchup-source="http://hez1-flu.iptvstream.site/298/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/BCU/ch_7.png",BCU СССР HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/298/index.m3u8
+http://hez1-flu.iptvstream.site/298/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="14" tvg-id="star-family" stream-id="300" catchup-source="http://hez1-flu.iptvstream.site/300/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/star-family.png",Star Family HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/300/index.m3u8
+http://hez1-flu.iptvstream.site/300/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="14" tvg-id="star-cinema" stream-id="301" catchup-source="http://hez1-flu.iptvstream.site/301/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/star-cinema.png",Star Cinema HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/301/index.m3u8
+http://hez1-flu.iptvstream.site/301/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="21" tvg-id="filmua-drama" stream-id="302" catchup-source="http://hez1-flu.iptvstream.site/302/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/filmuadrama.png",FilmUA Drama
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/302/index.m3u8
+http://hez1-flu.iptvstream.site/302/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="14" tvg-id="evrokino" stream-id="303" catchup-source="http://hez1-flu.iptvstream.site/303/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/eurokino.png",ЕвроКино и сериалы
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/303/index.m3u8
+http://hez1-flu.iptvstream.site/303/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="14" tvg-id="2423" stream-id="304" catchup-source="http://hez1-flu.iptvstream.site/304/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/sovetskoekino.png",Советское Кино и сериалы
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/304/index.m3u8
+http://hez1-flu.iptvstream.site/304/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="14" tvg-id="300025" stream-id="305" catchup-source="http://hez1-flu.iptvstream.site/305/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/feniks-plus-kino.png",Феникс+ Кино и сериалы
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/305/index.m3u8
+http://hez1-flu.iptvstream.site/305/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="0" tvg-id="300082" stream-id="306" catchup-source="http://hez1-flu.iptvstream.site/306/index-${start}-${offset}.m3u8" group-title="Детские" tvg-logo="http://static.telestars.tv/logos/gulligirl.png",Gulli
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/306/index.m3u8
+http://hez1-flu.iptvstream.site/306/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="0" tvg-id="100049" stream-id="307" catchup-source="http://hez1-flu.iptvstream.site/307/index-${start}-${offset}.m3u8" group-title="Детские" tvg-logo="http://static.telestars.tv/logos/jimjam.png",Jim Jam
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/307/index.m3u8
+http://hez1-flu.iptvstream.site/307/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="0" tvg-id="bcu-kids" stream-id="308" catchup-source="http://hez1-flu.iptvstream.site/308/index-${start}-${offset}.m3u8" group-title="Детские" tvg-logo="http://static.telestars.tv/logos/BCU/ch_9.png",BCU Kids HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/308/index.m3u8
+http://hez1-flu.iptvstream.site/308/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="0" tvg-id="bcu-multserial" stream-id="309" catchup-source="http://hez1-flu.iptvstream.site/309/index-${start}-${offset}.m3u8" group-title="Детские" tvg-logo="http://static.telestars.tv/logos/BCU/ch_10.png",BCU Мультсериал HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/309/index.m3u8
+http://hez1-flu.iptvstream.site/309/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="0" tvg-id="bcu-kids-plus" stream-id="310" catchup-source="http://hez1-flu.iptvstream.site/310/index-${start}-${offset}.m3u8" group-title="Детские" tvg-logo="http://static.telestars.tv/logos/BCU/1401.png",BCU Kids+ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/310/index.m3u8
+http://hez1-flu.iptvstream.site/310/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="7" tvg-id="1818" stream-id="312" catchup-source="http://hez1-flu.iptvstream.site/312/index-${start}-${offset}.m3u8" group-title="Спорт" tvg-logo="http://static.telestars.tv/logos/viasat-sport.png",Viasat Sport HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/312/index.m3u8
+http://hez1-flu.iptvstream.site/312/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="0" tvg-id="setanta-sports" stream-id="313" catchup-source="http://hez1-flu.iptvstream.site/313/index-${start}-${offset}.m3u8" group-title="Спорт" tvg-logo="http://static.telestars.tv/logos/SetantaEurasiaPlus.png",Setanta Eurasia+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/313/index.m3u8
+http://hez1-flu.iptvstream.site/313/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="0" tvg-id="setanta-sports-plus" stream-id="314" catchup-source="http://hez1-flu.iptvstream.site/314/index-${start}-${offset}.m3u8" group-title="Спорт" tvg-logo="http://static.telestars.tv/logos/SetantaEurasia.png",Setanta Eurasia HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/314/index.m3u8
+http://hez1-flu.iptvstream.site/314/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="0" tvg-id="2413" stream-id="315" catchup-source="http://hez1-flu.iptvstream.site/315/index-${start}-${offset}.m3u8" group-title="Познавательные" tvg-logo="http://static.telestars.tv/logos/glazami-turista.png",Глазами туриста HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/315/index.m3u8
+http://hez1-flu.iptvstream.site/315/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="7" tvg-id="2296" stream-id="317" catchup-source="http://hez1-flu.iptvstream.site/317/index-${start}-${offset}.m3u8" group-title="Познавательные" tvg-logo="http://static.telestars.tv/logos/dikiy.png",Дикий
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/317/index.m3u8
+http://hez1-flu.iptvstream.site/317/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="0" tvg-id="no_epg" stream-id="318" catchup-source="http://hez1-flu.iptvstream.site/318/index-${start}-${offset}.m3u8" group-title="Познавательные" tvg-logo="http://static.telestars.tv/logos/pervy-obrazovatelny.png",Первый образовательный
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/318/index.m3u8
+http://hez1-flu.iptvstream.site/318/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="7" tvg-id="300099" stream-id="319" catchup-source="http://hez1-flu.iptvstream.site/319/index-${start}-${offset}.m3u8" group-title="Познавательные" tvg-logo="http://static.telestars.tv/logos/psy21.png",Психология 21
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/319/index.m3u8
+http://hez1-flu.iptvstream.site/319/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="0" tvg-id="300011" stream-id="320" catchup-source="http://hez1-flu.iptvstream.site/320/index-${start}-${offset}.m3u8" group-title="Познавательные" tvg-logo="http://static.telestars.tv/logos/ZOOPark.png",Зоопарк
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/320/index.m3u8
+http://hez1-flu.iptvstream.site/320/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="0" tvg-id="xabar24" stream-id="321" catchup-source="http://hez1-flu.iptvstream.site/321/index-${start}-${offset}.m3u8" group-title="Разные" tvg-logo="http://static.telestars.tv/logos/xabar24.png",Хабар 24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/321/index.m3u8
+http://hez1-flu.iptvstream.site/321/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="0" tvg-id="French Lover" stream-id="328" catchup-source="http://hez1-flu.iptvstream.site/328/index-${start}-${offset}.m3u8" group-title="Для взрослых (18+)" tvg-logo="http://static.telestars.tv/logos/french-lover.png",French Lover
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/328/index.m3u8
+http://hez1-flu.iptvstream.site/328/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="7" tvg-id="bcu-kinozal-prem-1" stream-id="329" catchup-source="http://hez1-flu.iptvstream.site/329/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/BCU/ch_11.png",BCU Кино и сериалызал Premiere 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/329/index.m3u8
+http://hez1-flu.iptvstream.site/329/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="7" tvg-id="bcu-kinozal-prem-2" stream-id="330" catchup-source="http://hez1-flu.iptvstream.site/330/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/BCU/ch_11.png",BCU Кино и сериалызал Premiere 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/330/index.m3u8
+http://hez1-flu.iptvstream.site/330/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="7" tvg-id="bcu-kinozal-prem-3" stream-id="331" catchup-source="http://hez1-flu.iptvstream.site/331/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/BCU/ch_11.png",BCU Кино и сериалызал Premiere 3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/331/index.m3u8
+http://hez1-flu.iptvstream.site/331/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="7" tvg-id="bcu-action" stream-id="332" catchup-source="http://hez1-flu.iptvstream.site/332/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/BCU/ch_14.png",BCU Action HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/332/index.m3u8
+http://hez1-flu.iptvstream.site/332/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="7" tvg-id="bcu-catastrophe" stream-id="333" catchup-source="http://hez1-flu.iptvstream.site/333/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/BCU/ch_15.png",BCU Catastrophe HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/333/index.m3u8
+http://hez1-flu.iptvstream.site/333/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="7" tvg-id="bcu-cinema" stream-id="334" catchup-source="http://hez1-flu.iptvstream.site/334/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/BCU/ch_0.png",BCU Cinema HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/334/index.m3u8
+http://hez1-flu.iptvstream.site/334/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="7" tvg-id="bcu-cinemaplus" stream-id="335" catchup-source="http://hez1-flu.iptvstream.site/335/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/BCU/ch_0.png",BCU Cinema+ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/335/index.m3u8
+http://hez1-flu.iptvstream.site/335/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="7" tvg-id="bcu-comedy" stream-id="336" catchup-source="http://hez1-flu.iptvstream.site/336/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/BCU/ch_3.png",BCU Comedy HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/336/index.m3u8
+http://hez1-flu.iptvstream.site/336/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="7" tvg-id="bcu-fantastic" stream-id="337" catchup-source="http://hez1-flu.iptvstream.site/337/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/BCU/ch_2.png",BCU Fantastic HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/337/index.m3u8
+http://hez1-flu.iptvstream.site/337/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="7" tvg-id="bcu-filmystic" stream-id="338" catchup-source="http://hez1-flu.iptvstream.site/338/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/BCU/ch_1.png",BCU FilMystic HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/338/index.m3u8
+http://hez1-flu.iptvstream.site/338/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="7" tvg-id="bcu-kinorating" stream-id="339" catchup-source="http://hez1-flu.iptvstream.site/339/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/BCU/ch_4.png",BCU Kinorating HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/339/index.m3u8
+http://hez1-flu.iptvstream.site/339/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="7" tvg-id="bcu-marvel" stream-id="340" catchup-source="http://hez1-flu.iptvstream.site/340/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/BCU/ch_5.png",BCU Marvel HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/340/index.m3u8
+http://hez1-flu.iptvstream.site/340/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="7" tvg-id="bcu-premiere" stream-id="341" catchup-source="http://hez1-flu.iptvstream.site/341/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/BCU/ch_11.png",BCU Premiere HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/341/index.m3u8
+http://hez1-flu.iptvstream.site/341/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="7" tvg-id="bcu-romantic" stream-id="342" catchup-source="http://hez1-flu.iptvstream.site/342/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/BCU/ch_16.png",BCU Romantic HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/342/index.m3u8
+http://hez1-flu.iptvstream.site/342/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="7" tvg-id="bcu-vhs" stream-id="343" catchup-source="http://hez1-flu.iptvstream.site/343/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/BCU/ch_6.png",BCU VHS HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/343/index.m3u8
+http://hez1-flu.iptvstream.site/343/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="7" tvg-id="bcu-stars" stream-id="344" catchup-source="http://hez1-flu.iptvstream.site/344/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/BCU/1386.png",BCU Stars HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/344/index.m3u8
+http://hez1-flu.iptvstream.site/344/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="7" tvg-id="bcu-svaty" stream-id="345" catchup-source="http://hez1-flu.iptvstream.site/345/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/BCU/ch_8.png",BCU Сваты HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/345/index.m3u8
+http://hez1-flu.iptvstream.site/345/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="7" tvg-id="bcu-criminal" stream-id="346" catchup-source="http://hez1-flu.iptvstream.site/346/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/BCU/1416.png",BCU Criminal HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/346/index.m3u8
+http://hez1-flu.iptvstream.site/346/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="7" tvg-id="bcu-reality" stream-id="347" catchup-source="http://hez1-flu.iptvstream.site/347/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/BCU/1428.png",BCU Reality HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/347/index.m3u8
+http://hez1-flu.iptvstream.site/347/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="7" tvg-id="bcu-survival" stream-id="348" catchup-source="http://hez1-flu.iptvstream.site/348/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/BCU/1426.png",BCU Survival HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/348/index.m3u8
+http://hez1-flu.iptvstream.site/348/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="7" tvg-id="bcu-cosmo" stream-id="349" catchup-source="http://hez1-flu.iptvstream.site/349/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/BCU/1430.png",BCU Cosmo HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/349/index.m3u8
+http://hez1-flu.iptvstream.site/349/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="7" tvg-id="bcu-trumotion" stream-id="350" catchup-source="http://hez1-flu.iptvstream.site/350/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/BCU/1434.png",BCU TruMotion HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/350/index.m3u8
+http://hez1-flu.iptvstream.site/350/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="7" tvg-id="bcu-charm" stream-id="351" catchup-source="http://hez1-flu.iptvstream.site/351/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/BCU/256.png",BCU Charm HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/351/index.m3u8
+http://hez1-flu.iptvstream.site/351/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="7" tvg-id="BCUMEDIA HD" stream-id="352" catchup-source="http://hez1-flu.iptvstream.site/352/index-${start}-${offset}.m3u8" group-title="Кино и сериалы" tvg-logo="http://static.telestars.tv/logos/BCU/256.png",BCUMEDIA HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/352/index.m3u8
+http://hez1-flu.iptvstream.site/352/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="0" tvg-id="300108" stream-id="353" catchup-source="http://hez1-flu.iptvstream.site/353/index-${start}-${offset}.m3u8" group-title="Информационные" tvg-logo="http://static.telestars.tv/logos/Dozhd.png",Дождь
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/353/index.m3u8
+http://hez1-flu.iptvstream.site/353/index.m3u8?token=725240%2C%2C%2C3953470934
 #EXTINF:-1 catchup="default" catchup-days="14" tvg-id="belarus3" stream-id="354" catchup-source="http://hez1-flu.iptvstream.site/354/index-${start}-${offset}.m3u8" group-title="Разные" tvg-logo="http://static.telestars.tv/logos/Belarus3.png",Беларусь 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://player.telestars.tv/
-http://hez1-flu.iptvstream.site/354/index.m3u8
+http://hez1-flu.iptvstream.site/354/index.m3u8?token=725240%2C%2C%2C3953470934
