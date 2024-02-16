@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=1474824,AVERAGE-BANDWIDTH=1474824,CODECS="avc1.42e028,mp4a.40.2",PROGRAM-ID=1,RESOLUTION=1280x720
-https://stream-msk-06.ott.tricolor.tv:443/dtv/id774_MSKSG-PVR-1--Radio_ENERGY/01/plst.m3u8
+https://stream-msk-20.ott.tricolor.tv/dtv/id959_MSKSG-PVR-1--Radio_ENERGY/01/plst.m3u8
