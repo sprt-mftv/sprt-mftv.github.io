@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=140800,RESOLUTION=1280x720,CODECS="mp4a.40.2,avc1.42c01f"
-#https://stream-msk-17.ott.tricolor.tv:443/dtv/id949_MSKSG-PVR-1--dorozhnoye_radio/01/plst.m3u8
-https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=dorozhnoye_radio.m3u8&serviceArea=MSK-SA-1
+https://stream-msk-17.ott.tricolor.tv:443/dtv/id949_MSKSG-PVR-1--dorozhnoye_radio/01/plst.m3u8
+#https://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=dorozhnoye_radio.m3u8&serviceArea=MSK-SA-1
