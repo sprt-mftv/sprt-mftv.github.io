@@ -2,4 +2,4 @@
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=140800,RESOLUTION=1280x720,CODECS="mp4a.40.2,avc1.42c01f"
 https://stream-msk-17.ott.tricolor.tv:443/dtv/id956_MSKSG-PVR-1--yumor_fm/01/plst.m3u8
-
+#https://sgw.ott.tricolor.tv//streamingGateway//GetLivePlayList?source=yumor_fm.m3u8&serviceArea=MSK-SA-1
